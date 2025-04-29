@@ -1,0 +1,15 @@
+streamlit==1.27.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4  # Use faiss-gpu==1.7.4 if using GPU
+transformers==4.38.0
+torch==2.1.0
+cohere==4.25.0
+nltk==3.8.1
+scikit-learn==1.3.0
+evaluate==0.4.0
+bert-score==0.3.13
+rouge-score==0.0.4
+PyPDF2==3.0.1
+numpy==1.24.3
+bitsandbytes==0.41.1  # Needed for quantization (optional)
+huggingface_hub==0.18.0  # Useful for Hugging Face models (optional)
