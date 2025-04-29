@@ -1,0 +1,855 @@
+{
+    "Chapter III": {
+        "Section 10": {
+            "summary": "Specifies types of incomes that do not form part of total taxable income under the Income Tax Act.",
+            "sub_sections": {
+                "(1) Agricultural Income": {
+                    "summary": "Income from agricultural activities, including rent or revenue from agricultural land, is exempt from income tax.",
+                    "conditions": "The land must be used for agricultural purposes within India.",
+                    "exceptions": "Income from processing agricultural produce without basic processing is not exempt."
+                },
+                "(2) Income of HUF Member": {
+                    "summary": "Any sum received by an individual as a member of a Hindu Undivided Family (HUF) is tax-exempt.",
+                    "conditions": "The sum must be paid out of the income of the HUF.",
+                    "exceptions": "If the income is from an impartible estate, the exemption applies only if the estate belongs to the HUF."
+                },
+                "(2A) Share of a Partner in a Firm": {
+                    "summary": "A partner’s share in the total income of a firm assessed separately is exempt from tax.",
+                    "conditions": "Applies only if the firm itself is subject to taxation as a separate entity.",
+                    "exceptions": "Does not include any remuneration, commission, or interest paid to the partner by the firm."
+                },
+                "(4) Interest on Specified Bonds": {
+                    "summary": "Interest income on specified bonds and securities issued by the Central Government is exempt for non-residents.",
+                    "conditions": "Must be notified by the Central Government in the Official Gazette.",
+                    "exceptions": "No new bonds will be notified after June 1, 2002."
+                },
+                "(4B) Interest on Savings Certificates for Non-Residents": {
+                    "summary": "Interest on savings certificates issued before June 1, 2002, is exempt for non-resident Indians (NRIs).",
+                    "conditions": "The certificates must have been purchased using convertible foreign exchange.",
+                    "exceptions": "Only applies to individuals of Indian origin or Indian citizens residing outside India."
+                },
+                "(4C) Interest on Rupee-Denominated Bonds": {
+                    "summary": "Interest income from rupee-denominated bonds issued by an Indian company or business trust is exempt for non-residents.",
+                    "conditions": "The bonds must have been issued between September 17, 2018, and March 31, 2019.",
+                    "exceptions": "Exemption does not apply if the interest is earned by a resident of India."
+                },
+                "(4D) Income of a Specified Fund": {
+                    "summary": "Certain income accrued or received by a specified fund in an International Financial Services Centre (IFSC) is exempt.",
+                    "conditions": "The income must be from transfer of capital assets like bonds or securities that do not arise in India.",
+                    "exceptions": "The exemption is not available if the specified fund holds shares of a company resident in India."
+                },
+                "(4E) Income from Derivative Transactions": {
+                    "summary": "Income earned by a non-resident from transactions in non-deliverable forward contracts, offshore derivatives, or over-the-counter derivatives is exempt.",
+                    "conditions": "The transactions must be carried out through an offshore banking unit in an International Financial Services Centre (IFSC).",
+                    "exceptions": "Exemption does not apply to transactions involving securities of Indian resident companies."
+                },
+                "(4F) Royalty or Interest on Lease of Aircraft or Ship": {
+                    "summary": "Royalty or interest income earned by a non-resident from leasing an aircraft or ship to a unit in an International Financial Services Centre is tax-exempt.",
+                    "conditions": "The lease agreement must be with an IFSC unit that commenced operations on or before March 31, 2025.",
+                    "exceptions": "Exemption does not apply if the unit leasing the aircraft or ship is not an IFSC unit."
+                },
+                "(4G) Portfolio Income from Offshore Banking Unit": {
+                    "summary": "Income earned by a non-resident from portfolio securities or financial products managed by a portfolio manager in an offshore banking unit is exempt.",
+                    "conditions": "The offshore banking unit must be located in an International Financial Services Centre.",
+                    "exceptions": "Exemption is not available if the income is deemed to accrue or arise in India."
+                },
+                "(5) Leave Travel Concession (LTC)": {
+                    "summary": "Leave travel concession received by an employee for travel within India is exempt from tax.",
+                    "conditions": "The travel must be for the employee and their family, and the exemption applies to the actual amount spent.",
+                    "exceptions": "Exemption is not available for travel outside India or if the amount claimed exceeds actual expenses."
+                },
+                "(6) Remuneration of Foreign Diplomats": {
+                    "summary": "Salaries received by foreign diplomats and staff of embassies, high commissions, and consulates in India are exempt from tax.",
+                    "conditions": "The exemption applies only if similar benefits are provided to Indian diplomats in the concerned foreign country.",
+                    "exceptions": "Exemption does not apply if the individual engages in any business or other employment in India."
+                },
+                "(6A) Tax Paid on Behalf of Foreign Companies": {
+                    "summary": "Tax paid on behalf of a foreign company by the Indian government or an Indian concern for certain agreements is exempt.",
+                    "conditions": "The agreement must be entered into before June 1, 2002, and be approved by the Central Government.",
+                    "exceptions": "Exemption does not apply if the tax is deducted from the income of the foreign company."
+                },
+                "(7) Allowances for Government Employees Abroad": {
+                    "summary": "Allowances and perquisites paid by the Indian Government to its employees serving outside India are tax-exempt.",
+                    "conditions": "The exemption applies only to allowances meant for official duties and foreign assignments.",
+                    "exceptions": "Personal income earned outside the government assignment is not exempt."
+                },
+                "(8) Income of Foreign Technical Assistance Personnel": {
+                    "summary": "Remuneration received by foreign personnel working under a cooperative technical assistance agreement between India and a foreign country is exempt.",
+                    "conditions": "The agreement must explicitly provide for tax exemption.",
+                    "exceptions": "Income from any private employment or business is not covered under this exemption."
+                },
+                "(8A) Income of Consultants under International Agreements": {
+                    "summary": "Remuneration and fees received by consultants working under international technical assistance agreements are tax-exempt.",
+                    "conditions": "The agreement must be between India and an international organization or foreign government.",
+                    "exceptions": "Exemption does not apply if the consultant earns income outside the scope of the agreement."
+                },
+                "(8B) Income of Employees under International Agreements": {
+                    "summary": "Remuneration received by employees working under international technical assistance agreements is exempt.",
+                    "conditions": "The employee must be assigned to duties in India as per the agreement.",
+                    "exceptions": "Other personal income of the employee is not exempt."
+                },
+                "(9) Income of Family Members of Foreign Personnel": {
+                    "summary": "Income earned outside India by family members accompanying a foreign technical assistance worker is exempt.",
+                    "conditions": "The income should not be deemed to accrue in India.",
+                    "exceptions": "If the family member engages in work or business in India, the exemption does not apply."
+                },
+                "(10) Tax-Free Gratuity Payments": {
+                    "summary": "Gratuity received on retirement, termination, or death under various government and private schemes is tax-exempt.",
+                    "conditions": "The gratuity must be received under approved government rules or payment laws.",
+                    "exceptions": "If the gratuity exceeds specified limits, the excess amount is taxable."
+                },
+                "(10A) Commuted Pension Exemption": {
+                    "summary": "Lump sum payments received in lieu of pension (commuted pension) are exempt from tax.",
+                    "conditions": "Exemption is available if received under specified government and employer schemes.",
+                    "exceptions": "If the individual also receives a gratuity, only one-third of the pension is exempt."
+                },
+                "(10AA) Leave Encashment on Retirement": {
+                    "summary": "Payments received as cash equivalent of earned leave on retirement are tax-free.",
+                    "conditions": "Government employees get full exemption, while private employees get exemption up to a specified limit.",
+                    "exceptions": "Excess amount beyond the prescribed limit is taxable."
+                },
+                "(10B) Compensation for Retrenchment": {
+                    "summary": "Compensation received by a workman under the Industrial Disputes Act, 1947 is tax-exempt.",
+                    "conditions": "The amount should not exceed the statutory limit prescribed by the Act.",
+                    "exceptions": "If compensation exceeds the prescribed limit, the excess is taxable."
+                },
+                "(10BB) Compensation for Bhopal Gas Tragedy": {
+                    "summary": "Compensation received under the Bhopal Gas Leak Disaster (Processing of Claims) Act, 1985 is tax-free.",
+                    "conditions": "Applicable only to compensation payments, not business-related settlements.",
+                    "exceptions": "If a deduction was previously claimed for losses due to the disaster, the exemption is not available."
+                },
+                "(10BC) Compensation for Natural Disasters": {
+                    "summary": "Compensation received from the government for natural disasters is exempt from tax.",
+                    "conditions": "The payment must be received directly from the government or a local authority.",
+                    "exceptions": "If the recipient has already claimed deductions for the loss, the exemption does not apply."
+                },
+                "(10C) Voluntary Retirement Scheme (VRS) Payments": {
+                    "summary": "Payments received under approved voluntary retirement schemes are tax-free up to ₹5 lakh.",
+                    "conditions": "The scheme must be framed according to government guidelines.",
+                    "exceptions": "If the employee has claimed relief under Section 89, this exemption does not apply."
+                },
+                "(10CC) Tax on Perquisites Paid by Employer": {
+                    "summary": "If an employer pays tax on behalf of an employee for perquisites, the amount is not considered part of the employee’s taxable income.",
+                    "conditions": "The tax should be paid directly by the employer without recovering it from the employee.",
+                    "exceptions": "This exemption does not apply to salary components other than perquisites."
+                },
+                "(10D) Life Insurance Policy Payouts": {
+                    "summary": "Sum received under a life insurance policy, including bonuses, is tax-exempt.",
+                    "conditions": "Premium should not exceed 10% of the sum assured for policies issued after April 1, 2012.",
+                    "exceptions": "Policies issued for disabled individuals (Section 80U) or critical illness (Section 80DDB) have relaxed conditions."
+                },
+                "(11) Payments from Provident Funds": {
+                    "summary": "Payments received from statutory provident funds, public provident funds, or recognized provident funds are tax-free.",
+                    "conditions": "The fund must be approved by the government.",
+                    "exceptions": "Withdrawals from unrecognized provident funds are not exempt."
+                },
+                "(12) Accumulated Balance from Recognized Provident Funds": {
+                    "summary": "Accumulated balance due to an employee from a recognized provident fund is exempt from tax.",
+                    "conditions": "The employee must have completed at least five years of continuous service.",
+                    "exceptions": "If service is less than five years, the withdrawal is taxable unless due to reasons like employer closure."
+                },
+                "(13A) House Rent Allowance (HRA)": {
+                    "summary": "House Rent Allowance (HRA) received by an employee is partially exempt from tax.",
+                    "conditions": "Exemption is the least of (i) actual HRA received, (ii) 50% of salary for metro cities or 40% for others, or (iii) rent paid minus 10% of salary.",
+                    "exceptions": "If no rent is paid or if the employee owns the house, no exemption is available."
+                },
+                "(14) Prescribed Special Allowances": {
+                    "summary": "Certain special allowances granted to employees for expenses related to duties are tax-free.",
+                    "conditions": "Must be spent for the specified purpose (e.g., travel, uniform, research).",
+                    "exceptions": "Any unspent amount is taxable."
+                },
+                "(15) Interest on Specified Investments": {
+                    "summary": "Interest earned from notified bonds, securities, or deposits is exempt from tax.",
+                    "conditions": "Applies to specific government-notified investments.",
+                    "exceptions": "Not applicable to corporate bonds or private fixed deposits."
+                },
+                "(16) Scholarships": {
+                    "summary": "Scholarships granted to students for educational purposes are fully tax-exempt.",
+                    "conditions": "Must be used for educational purposes only.",
+                    "exceptions": "Stipends or salaries paid to research scholars may not qualify."
+                },
+                "(17) Allowances for MPs and MLAs": {
+                    "summary": "Daily and constituency allowances received by Members of Parliament (MPs) and Members of Legislative Assemblies (MLAs) are tax-exempt.",
+                    "conditions": "Only the specified allowances are exempt, not full salaries.",
+                    "exceptions": "Perks or additional benefits received beyond prescribed limits are taxable."
+                },
+                "(18) Gallantry and Bravery Awards": {
+                    "summary": "Pensions and rewards received by gallantry award winners like Param Vir Chakra, Maha Vir Chakra, and Vir Chakra are tax-exempt.",
+                    "conditions": "The recipient must be an awardee of specified bravery medals.",
+                    "exceptions": "If the award is not notified under this section, normal tax rules apply."
+                }
+            }
+        },
+        "Section 10A": {
+            "summary": "Provides tax deductions for profits earned by newly established undertakings in Free Trade Zones (FTZ), Export Processing Zones (EPZ), and Special Economic Zones (SEZ) from the export of articles, things, or computer software.",
+            "sub_sections": {
+                "(1) Deduction for Export Profits": {
+                    "summary": "Eligible undertakings can claim a deduction on profits from exports for 10 consecutive assessment years.",
+                    "conditions": "Applies from the first year of production or manufacture.",
+                    "exceptions": "No deduction allowed for assessment years starting on or after April 1, 2012."
+                },
+                "(1A) Special Deduction for SEZ Units": {
+                    "summary": "Units in SEZs starting operations on or after April 1, 2003, get a phased deduction.",
+                    "conditions": "100% deduction for 5 years, 50% for the next 2 years, and further 50% if reinvested in business.",
+                    "exceptions": "Must comply with reinvestment rules under subsection (1B)."
+                },
+                "(1B) SEZ Re-investment Reserve": {
+                    "summary": "Requires reinvestment of profits to qualify for continued deductions.",
+                    "conditions": "Profits must be credited to a reserve account and used to acquire new machinery or plant within 3 years.",
+                    "exceptions": "Funds cannot be used for dividends, foreign remittances, or asset creation outside India."
+                },
+                "(2) Eligibility Criteria": {
+                    "summary": "Defines the types of undertakings that qualify for the deduction.",
+                    "conditions": "Applies to businesses in FTZs, EPZs, SEZs, and software technology parks established after specific dates.",
+                    "exceptions": "Does not apply to undertakings formed by reconstruction, split-up of an existing business, or transfer of old machinery."
+                },
+                "(3) Foreign Exchange Requirement": {
+                    "summary": "Export proceeds must be received in India within 6 months from the end of the financial year.",
+                    "conditions": "Can be extended by approval from the Reserve Bank of India (RBI).",
+                    "exceptions": "Funds held in foreign bank accounts require RBI approval."
+                },
+                "(4) Computation of Eligible Profits": {
+                    "summary": "Only the proportion of total business profits attributable to exports is eligible for deduction.",
+                    "conditions": "Calculated based on the ratio of export turnover to total turnover.",
+                    "exceptions": "Domestic sales do not qualify."
+                },
+                "(5) Requirement for Accountant’s Report": {
+                    "summary": "Deductions must be certified by a chartered accountant.",
+                    "conditions": "Report must be submitted with the income tax return.",
+                    "exceptions": "Failure to furnish the report results in denial of deduction."
+                },
+                "(6) No Carry Forward of Losses": {
+                    "summary": "No business losses from the 10A period can be carried forward.",
+                    "conditions": "Depreciation and capital deductions are considered fully claimed.",
+                    "exceptions": "Losses related to non-eligible business activities can be carried forward."
+                },
+                "(7) Applicability of Section 80-IA Provisions": {
+                    "summary": "Some provisions of Section 80-IA related to industrial undertakings apply.",
+                    "conditions": "Includes provisions on transfer of business, compliance, and restructuring.",
+                    "exceptions": "Does not override specific provisions of Section 10A."
+                },
+                "(7A) Amalgamation and Demerger": {
+                    "summary": "If an undertaking merges with another company, the deduction continues with the new entity.",
+                    "conditions": "Applicable only to Indian companies.",
+                    "exceptions": "Original company cannot claim deductions in the year of transfer."
+                },
+                "(7B) SEZ Units Exclusion": {
+                    "summary": "Units in SEZs operating from April 1, 2006, onwards are not eligible under Section 10A.",
+                    "conditions": "Such units are covered under the SEZ Act, 2005.",
+                    "exceptions": "SEZ Act provisions apply separately."
+                },
+                "(8) Opting Out of Section 10A": {
+                    "summary": "Assessees can opt out by submitting a declaration to the tax officer before filing their return.",
+                    "conditions": "Must be done before the due date under Section 139(1).",
+                    "exceptions": "Once opted out, the benefit cannot be claimed later."
+                },
+                "(9) Omitted Clauses": {
+                    "summary": "Certain provisions were removed by the Finance Act, 2003.",
+                    "exceptions": "No impact on existing eligible undertakings."
+                },
+                "(Explanation 2) Definitions": {
+                    "summary": "Defines key terms such as 'computer software,' 'convertible foreign exchange,' 'export turnover,' and 'special economic zone'.",
+                    "conditions": "Software includes recorded programs and electronically transmitted data.",
+                    "exceptions": "Foreign exchange rules are subject to RBI guidelines."
+                },
+                "(Explanation 3) On-Site Software Development": {
+                    "summary": "Profits from software development outside India are deemed to be export profits.",
+                    "conditions": "Applicable only to software services exported by the unit.",
+                    "exceptions": "Domestic software services are not covered."
+                },
+                "(Explanation 4) Definition of Manufacturing": {
+                    "summary": "Includes processes like cutting and polishing of precious stones under 'manufacture or produce'.",
+                    "conditions": "Applies to gems and jewelry businesses.",
+                    "exceptions": "Does not extend to assembling activities."
+                }
+            }
+        },
+        "Section 10AA": {
+            "summary": "Provides tax deductions for newly established units in Special Economic Zones (SEZ) engaged in manufacturing, production, or service exports.",
+            "sub_sections": {
+                "(1) Deduction for SEZ Units": {
+                    "summary": "Eligible SEZ units can claim tax deductions on export profits for 15 years in a phased manner.",
+                    "conditions": "100% deduction for the first 5 years, 50% for the next 5 years, and 50% for the next 5 years if reinvested in business.",
+                    "exceptions": "Applies only to units that start operations between April 1, 2006, and March 31, 2021."
+                },
+                "(2) SEZ Re-investment Reserve": {
+                    "summary": "Profits must be credited to a reserve account and used to acquire new machinery or plant within 3 years to continue deductions.",
+                    "conditions": "Funds must not be used for dividends, profit remittance outside India, or asset creation outside India.",
+                    "exceptions": "If funds are not used within 3 years, they will be taxed as profits."
+                },
+                "(3) Taxability of Unused Reserve": {
+                    "summary": "If re-investment reserve funds are misused or not used within 3 years, they will be added to taxable income.",
+                    "conditions": "Tax will be applied in the year of misuse or the year immediately after the 3-year period.",
+                    "exceptions": "If deductions were previously claimed under Section 10A, only the remaining unexpired period of deductions will apply."
+                },
+                "(4) Eligibility Criteria": {
+                    "summary": "Defines the types of units that qualify for the deduction.",
+                    "conditions": "Applies to units in SEZs that began operations on or after April 1, 2006.",
+                    "exceptions": "Units formed by splitting an existing business or transferring old machinery are not eligible."
+                },
+                "(4A) Foreign Exchange Requirement": {
+                    "summary": "Export proceeds must be received in India within 6 months of the financial year-end.",
+                    "conditions": "Extensions can be granted by the Reserve Bank of India (RBI).",
+                    "exceptions": "Funds in foreign bank accounts require RBI approval."
+                },
+                "(5) Amalgamation and Demerger": {
+                    "summary": "If an SEZ unit merges with another company, the deduction continues with the new entity.",
+                    "conditions": "Applicable only to Indian companies.",
+                    "exceptions": "The original company cannot claim deductions in the year of transfer."
+                },
+                "(6) Loss Carry Forward": {
+                    "summary": "Losses incurred by the SEZ unit can be carried forward and set off.",
+                    "conditions": "Applicable under Section 72 (business losses) and Section 74 (capital losses).",
+                    "exceptions": "Losses related to non-eligible businesses cannot be carried forward."
+                },
+                "(7) Computation of Eligible Profits": {
+                    "summary": "Only the proportion of total business profits attributable to exports qualifies for deductions.",
+                    "conditions": "Calculated as the ratio of export turnover to total turnover.",
+                    "exceptions": "Domestic sales do not qualify for deductions."
+                },
+                "(8) Applicability of Section 10A Provisions": {
+                    "summary": "Some provisions of Section 10A apply to SEZ units under this section.",
+                    "conditions": "Includes rules for transfer of business and compliance requirements.",
+                    "exceptions": "Differences in assessment year applicability exist."
+                },
+                "(9) Applicability of Section 80-IA Provisions": {
+                    "summary": "Certain provisions of Section 80-IA apply to SEZ units.",
+                    "conditions": "Includes conditions related to infrastructure and industrial undertakings.",
+                    "exceptions": "Does not override specific provisions of Section 10AA."
+                },
+                "(10) No Dual Deduction": {
+                    "summary": "If a deduction is claimed under this section, no deduction can be claimed under Section 35AD for the same business.",
+                    "conditions": "Applies to businesses classified as 'specified business' under Section 35AD.",
+                    "exceptions": "Other deductions under different sections may still be applicable."
+                },
+                "(Explanation 1) Definitions": {
+                    "summary": "Defines key terms like 'convertible foreign exchange,' 'export turnover,' and 'Special Economic Zone.'",
+                    "conditions": "'Convertible foreign exchange' is as per RBI guidelines.",
+                    "exceptions": "Export turnover does not include freight, insurance, or foreign exchange expenses for services."
+                },
+                "(Explanation 2) On-Site Software Development": {
+                    "summary": "Profits from software development outside India qualify as export profits.",
+                    "conditions": "Applies only to software services exported by the SEZ unit.",
+                    "exceptions": "Domestic software services do not qualify."
+                }
+            }
+        },
+        "Section 10B": {
+            "summary": "Provides tax deductions for profits earned by 100% Export-Oriented Units (EOUs) engaged in the export of articles, things, or computer software.",
+            "sub_sections": {
+                "(1) Deduction for Export-Oriented Units": {
+                    "summary": "Eligible EOUs can claim deductions on export profits for 10 consecutive assessment years.",
+                    "conditions": "Applies from the first year of production or manufacture.",
+                    "exceptions": "No deduction allowed for assessment years starting on or after April 1, 2012."
+                },
+                "(2) Eligibility Criteria": {
+                    "summary": "Defines the types of units that qualify for the deduction.",
+                    "conditions": "The unit must be a 100% Export-Oriented Undertaking (EOU) approved by the government.",
+                    "exceptions": "Does not apply to businesses formed by splitting an existing business or transferring old machinery."
+                },
+                "(3) Foreign Exchange Requirement": {
+                    "summary": "Export proceeds must be received in India within 6 months from the end of the financial year.",
+                    "conditions": "Can be extended by approval from the Reserve Bank of India (RBI).",
+                    "exceptions": "Funds held in foreign bank accounts require RBI approval."
+                },
+                "(4) Computation of Eligible Profits": {
+                    "summary": "Only the proportion of total business profits attributable to exports is eligible for deductions.",
+                    "conditions": "Calculated as the ratio of export turnover to total turnover.",
+                    "exceptions": "Domestic sales do not qualify."
+                },
+                "(5) Requirement for Accountant’s Report": {
+                    "summary": "Deductions must be certified by a chartered accountant.",
+                    "conditions": "Report must be submitted with the income tax return.",
+                    "exceptions": "Failure to furnish the report results in denial of deduction."
+                },
+                "(6) No Carry Forward of Losses": {
+                    "summary": "No business losses from the 10B period can be carried forward.",
+                    "conditions": "Depreciation and capital deductions are considered fully claimed.",
+                    "exceptions": "Losses related to non-eligible business activities can be carried forward."
+                },
+                "(7) Applicability of Section 80-IA Provisions": {
+                    "summary": "Some provisions of Section 80-IA related to industrial undertakings apply.",
+                    "conditions": "Includes provisions on transfer of business, compliance, and restructuring.",
+                    "exceptions": "Does not override specific provisions of Section 10B."
+                },
+                "(7A) Amalgamation and Demerger": {
+                    "summary": "If an EOU merges with another company, the deduction continues with the new entity.",
+                    "conditions": "Applicable only to Indian companies.",
+                    "exceptions": "The original company cannot claim deductions in the year of transfer."
+                },
+                "(8) Opting Out of Section 10B": {
+                    "summary": "Assessees can opt out by submitting a declaration to the tax officer before filing their return.",
+                    "conditions": "Must be done before the due date under Section 139(1).",
+                    "exceptions": "Once opted out, the benefit cannot be claimed later."
+                },
+                "(Explanation 2) Definitions": {
+                    "summary": "Defines key terms such as 'computer software,' 'convertible foreign exchange,' 'export turnover,' and '100% Export-Oriented Undertaking'.",
+                    "conditions": "'Computer software' includes recorded programs and electronically transmitted data.",
+                    "exceptions": "Foreign exchange rules are subject to RBI guidelines."
+                },
+                "(Explanation 3) On-Site Software Development": {
+                    "summary": "Profits from software development outside India are deemed to be export profits.",
+                    "conditions": "Applicable only to software services exported by the unit.",
+                    "exceptions": "Domestic software services are not covered."
+                },
+                "(Explanation 4) Definition of Manufacturing": {
+                    "summary": "Includes processes like cutting and polishing of precious stones under 'manufacture or produce'.",
+                    "conditions": "Applies to gems and jewelry businesses.",
+                    "exceptions": "Does not extend to assembling activities."
+                }
+            }
+        },
+        "Section 10BA": {
+            "summary": "Provides tax deductions for profits earned by undertakings engaged in the export of eligible hand-made articles or things that require wood as the main raw material.",
+            "sub_sections": {
+                "(1) Deduction for Export of Eligible Articles": {
+                    "summary": "Eligible undertakings can claim tax deductions on export profits.",
+                    "conditions": "Applies only if deductions under Section 10A or 10B have not been claimed.",
+                    "exceptions": "No deduction allowed for assessment years starting on or after April 1, 2010."
+                },
+                "(2) Eligibility Criteria": {
+                    "summary": "Defines the types of undertakings that qualify for the deduction.",
+                    "conditions": [
+                        "Must manufacture or produce eligible articles or things without the use of imported raw materials.",
+                        "90% or more of sales must be from exports.",
+                        "Must employ at least 20 workers in the manufacturing process."
+                    ],
+                    "exceptions": "Does not apply to businesses formed by splitting an existing business or transferring old machinery."
+                },
+                "(3) Foreign Exchange Requirement": {
+                    "summary": "Export proceeds must be received in India within 6 months from the end of the financial year.",
+                    "conditions": "Extensions can be granted by the Reserve Bank of India (RBI).",
+                    "exceptions": "Funds held in foreign bank accounts require RBI approval."
+                },
+                "(4) Computation of Eligible Profits": {
+                    "summary": "Only the proportion of total business profits attributable to exports qualifies for deductions.",
+                    "conditions": "Calculated as the ratio of export turnover to total turnover.",
+                    "exceptions": "Domestic sales do not qualify."
+                },
+                "(5) Requirement for Accountant’s Report": {
+                    "summary": "Deductions must be certified by a chartered accountant.",
+                    "conditions": "Report must be submitted with the income tax return.",
+                    "exceptions": "Failure to furnish the report results in denial of deduction."
+                },
+                "(6) No Dual Deduction": {
+                    "summary": "If a deduction is claimed under this section, no deduction can be claimed under any other section for export profits.",
+                    "conditions": "Applies to all other export-related deductions.",
+                    "exceptions": "Other deductions may apply for domestic sales or non-export activities."
+                },
+                "(7) Applicability of Section 80-IA Provisions": {
+                    "summary": "Some provisions of Section 80-IA related to industrial undertakings apply.",
+                    "conditions": "Includes conditions related to infrastructure and industrial undertakings.",
+                    "exceptions": "Does not override specific provisions of Section 10BA."
+                },
+                "(Explanation) Definitions": {
+                    "summary": "Defines key terms like 'convertible foreign exchange,' 'eligible articles or things,' and 'export turnover'.",
+                    "conditions": [
+                        "'Convertible foreign exchange' is as per RBI guidelines.",
+                        "'Eligible articles or things' include all hand-made artistic items that require wood as the main raw material.",
+                        "'Export turnover' excludes freight, insurance, and telecommunication charges."
+                    ],
+                    "exceptions": "'Export out of India' does not include sales made in shops or emporiums within India."
+                }
+            }
+        },
+        "Section 10BB": {
+            "summary": "Expands the definition of 'computer programmes' for profits derived under Section 10B before its amendment by the Finance Act, 2000.",
+            "clarification": "The term 'computer programmes' shall be construed to include 'processing or management of electronic data.'",
+            "applicability": "Relevant only for undertakings that claimed deductions under Section 10B before its amendment in 2000."
+        },
+        "Section 10C": {
+            "summary": "Provides tax exemptions for profits earned by industrial undertakings located in Integrated Infrastructure Development Centres or Industrial Growth Centres in the North-Eastern Region (NER).",
+            "sub_sections": {
+                "(1) Exemption for Industrial Undertakings in NER": {
+                    "summary": "Profits derived from eligible industrial undertakings in NER are fully exempt from total income.",
+                    "conditions": "Applies to undertakings that began manufacturing or production on or after April 1, 1998.",
+                    "exceptions": "No exemption allowed for assessment years starting on or after April 1, 2004."
+                },
+                "(2) Eligibility Criteria": {
+                    "summary": "Defines the types of industrial undertakings that qualify for the exemption.",
+                    "conditions": [
+                        "Must not be formed by splitting or reconstructing an existing business.",
+                        "Must not be formed by transferring old machinery or plant."
+                    ],
+                    "exceptions": "Undertakings revived under Section 33B are eligible."
+                },
+                "(3) Duration of Exemption": {
+                    "summary": "Exemption is available for 10 consecutive assessment years.",
+                    "conditions": "Starts from the year in which manufacturing or production begins.",
+                    "exceptions": "Does not extend beyond 10 years."
+                },
+                "(4) No Carry Forward of Losses or Additional Deductions": {
+                    "summary": "Losses from the exempt period cannot be carried forward, and no other deductions apply.",
+                    "conditions": [
+                        "Losses under Sections 72 and 74 cannot be carried forward.",
+                        "No deductions allowed under Sections 80HH, 80HHA, 80-IA, 80-IB, or 80JJA.",
+                        "Depreciation must be computed as if full deductions were already claimed."
+                    ],
+                    "exceptions": "Non-exempt business activities may still claim deductions."
+                },
+                "(5) Applicability of Section 80-IA Provisions": {
+                    "summary": "Certain provisions of Section 80-IA and 80-IB apply to these industrial undertakings.",
+                    "conditions": "Includes compliance requirements for industrial units.",
+                    "exceptions": "Does not override specific provisions of Section 10C."
+                },
+                "(6) Opting Out of Section 10C": {
+                    "summary": "Assessees can opt out by submitting a declaration before the due date for income tax return filing.",
+                    "conditions": "Once opted out, the benefit cannot be claimed later.",
+                    "exceptions": "Declaration must be made before the due date under Section 139(1)."
+                },
+                "(Explanation) Definitions": {
+                    "summary": "Defines key terms like 'Integrated Infrastructure Development Centre,' 'Industrial Growth Centre,' and 'North-Eastern Region.'",
+                    "conditions": [
+                        "'North-Eastern Region' includes Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, and Tripura.",
+                        "'Integrated Infrastructure Development Centre' and 'Industrial Growth Centre' are specified by government notification."
+                    ],
+                    "exceptions": "Definitions apply strictly to industrial locations in NER."
+                }
+            }
+        },
+        "Section 11": {
+            "summary": "Provides tax exemptions for income derived from property held under trust for charitable or religious purposes.",
+            "sub_sections": {
+                "(1) Exemption for Charitable and Religious Trusts": {
+                    "summary": "Income from property held under trust is exempt if applied for charitable or religious purposes.",
+                    "conditions": [
+                        "Up to 85% of income must be applied for such purposes in India.",
+                        "Income can be accumulated up to 15% without losing exemption."
+                    ],
+                    "exceptions": "Specific exemptions apply for institutions engaged in international welfare."
+                },
+                "(2) Accumulation of Income": {
+                    "summary": "Allows trusts to accumulate income for future application to charitable or religious purposes.",
+                    "conditions": [
+                        "Accumulated income must be invested in prescribed forms.",
+                        "A statement must be furnished to the Assessing Officer specifying the purpose of accumulation."
+                    ],
+                    "exceptions": "Accumulated income must be used within 5 years, else it becomes taxable."
+                },
+                "(3) Taxability of Unused or Misused Funds": {
+                    "summary": "If accumulated funds are not used as per conditions, they will be considered taxable income.",
+                    "conditions": "Taxation applies if funds are misused, diverted, or remain unspent beyond the permitted time.",
+                    "exceptions": "Exemptions may apply if funds are blocked due to legal constraints."
+                },
+                "(4) Business Income of Trusts": {
+                    "summary": "Trusts can engage in business only if it is incidental to their objectives.",
+                    "conditions": "Separate books of accounts must be maintained.",
+                    "exceptions": "Non-incidental business income is taxable."
+                },
+                "(5) Investment Restrictions": {
+                    "summary": "Trusts must invest funds in government-approved securities or deposits.",
+                    "conditions": "Includes investments in government bonds, scheduled banks, and public sector enterprises.",
+                    "exceptions": "Investments in private companies are not allowed."
+                },
+                "(6) No Depreciation on Assets Claimed as Application": {
+                    "summary": "Depreciation cannot be claimed on assets whose cost has already been treated as an application of income.",
+                    "conditions": "Prevents double deduction of expenses.",
+                    "exceptions": "Applies only to assets fully claimed as an application of income."
+                },
+                "(7) Interaction with Section 10": {
+                    "summary": "Trusts registered under Section 12AA or 12AB cannot claim exemption under Section 10 except specific sub-clauses.",
+                    "conditions": "Relevant for trusts opting for different exemption schemes.",
+                    "exceptions": "Limited to specified sub-clauses of Section 10."
+                },
+                "(Explanation) Definitions": {
+                    "summary": "Defines key terms like 'Integrated Infrastructure Development Centre' and 'Religious Purposes'.",
+                    "conditions": [
+                        "'Religious purposes' include public worship, advancement of faith, and maintenance of religious institutions.",
+                        "'Charitable purposes' include relief of the poor, education, medical relief, and public utility."
+                    ],
+                    "exceptions": "Definitions are subject to modifications under tax laws."
+                }
+            }
+        },
+        "Section 12": {
+            "summary": "Defines the tax treatment of voluntary contributions received by charitable or religious trusts and institutions.",
+            "sub_sections": {
+                "(1) Treatment of Voluntary Contributions": {
+                    "summary": "Voluntary contributions received by a trust or institution are considered income derived from property held under trust.",
+                    "conditions": "Applies to all contributions except those specifically directed to form part of the corpus of the trust or institution.",
+                    "exceptions": "Corpus donations are not treated as income."
+                },
+                "(2) Taxability of Services Provided": {
+                    "summary": "Medical or educational services provided by a charitable trust to certain related persons are deemed taxable income.",
+                    "conditions": "Applies to services provided free of cost or at concessional rates to persons specified under Section 13(3).",
+                    "exceptions": "Services provided to general beneficiaries remain tax-exempt."
+                },
+                "(3) Unutilized or Misused Donations": {
+                    "summary": "Donations received for Gujarat earthquake relief but not used as per Section 80G(5C) become taxable income.",
+                    "conditions": [
+                        "Accounts must be submitted as per Section 80G(5C).",
+                        "Funds must be used only for Gujarat earthquake relief.",
+                        "Unutilized funds must be transferred to the Prime Minister's National Relief Fund before March 31, 2004."
+                    ],
+                    "exceptions": "If properly utilized, donations remain tax-exempt."
+                },
+                "(Explanation) Definition of Value": {
+                    "summary": "Defines 'value' in the context of services provided by charitable trusts.",
+                    "conditions": "Represents the cost of benefits or facilities provided free of cost or at concessional rates.",
+                    "exceptions": "Value determination applies only to specified related persons under Section 13(3)."
+                }
+            }
+        },
+        "Section 12A": {
+            "summary": "Specifies conditions for trusts and institutions to claim tax exemptions under Sections 11 and 12.",
+            "sub_sections": {
+                "(1) Registration Requirement": {
+                    "summary": "Trusts or institutions must apply for registration to claim exemptions.",
+                    "conditions": [
+                        "Application must be made in the prescribed form to the Principal Commissioner or Commissioner.",
+                        "If applied within one year of creation, exemptions apply from the date of creation.",
+                        "If applied late, exemptions apply from the financial year of application unless delay is justified."
+                    ],
+                    "exceptions": "Registration rules differ for applications after June 1, 2007."
+                },
+                "(2) Re-registration After Modification": {
+                    "summary": "Trusts that modify their objectives must apply for fresh registration.",
+                    "conditions": "Application must be made within 30 days of modification.",
+                    "exceptions": "Failure to register leads to loss of exemptions."
+                },
+                "(3) Renewal and Provisional Registration": {
+                    "summary": "Trusts must renew registration before expiry or convert provisional registration to permanent.",
+                    "conditions": [
+                        "Renewal applications must be filed at least 6 months before expiry.",
+                        "Provisional registration must be converted within 6 months of starting activities or before expiry, whichever is earlier."
+                    ],
+                    "exceptions": "Failure to renew results in loss of exemptions."
+                },
+                "(4) Audit Requirement": {
+                    "summary": "Trusts must maintain accounts and get audited if total income exceeds the basic exemption limit.",
+                    "conditions": [
+                        "Books of account must be kept in a prescribed manner.",
+                        "Audit report must be filed before the due date under Section 44AB."
+                    ],
+                    "exceptions": "Non-audited trusts lose exemptions for that year."
+                },
+                "(5) Income Tax Return Filing": {
+                    "summary": "Trusts must file their return of income within the due date under Section 139(1) or 139(4).",
+                    "conditions": "Late filing leads to loss of exemptions.",
+                    "exceptions": "Applies only if income exceeds the basic exemption limit."
+                },
+                "(6) Applicability of Exemptions": {
+                    "summary": "Exemptions apply from the assessment year following registration.",
+                    "conditions": [
+                        "For renewals, exemptions apply from the original registration date.",
+                        "For provisional registrations, exemptions apply from the first assessment year after registration."
+                    ],
+                    "exceptions": "Late applications affect exemption periods."
+                }
+            }
+        },
+        "Section 12AA": {
+            "summary": "Defines the procedure for registration of trusts and institutions under Section 12A for claiming tax exemptions.",
+            "sub_sections": {
+                "(1) Application and Inquiry Process": {
+                    "summary": "The Principal Commissioner or Commissioner reviews the application for registration.",
+                    "conditions": [
+                        "Trust or institution must submit the application in the prescribed form.",
+                        "Authorities may call for documents and make inquiries to verify the genuineness of activities.",
+                        "Compliance with other relevant laws is also examined."
+                    ],
+                    "exceptions": "Registration is only granted if the objectives and activities align with charitable or religious purposes."
+                },
+                "(2) Approval or Rejection of Registration": {
+                    "summary": "The authority decides whether to approve or reject the registration.",
+                    "conditions": [
+                        "If satisfied, an order in writing is issued granting registration.",
+                        "If not satisfied, an order in writing is issued refusing registration.",
+                        "Applicant must be given a reasonable opportunity to present their case before rejection."
+                    ],
+                    "exceptions": "Rejections can be challenged by the applicant."
+                },
+                "(3) Time Limit for Processing Applications": {
+                    "summary": "Registration approval or rejection must be completed within six months.",
+                    "conditions": "Decision must be made within six months from the end of the month in which the application was received.",
+                    "exceptions": "Delays beyond this period may be subject to administrative review."
+                },
+                "(4) Cancellation of Registration": {
+                    "summary": "The Principal Commissioner or Commissioner can cancel the registration if conditions are violated.",
+                    "conditions": [
+                        "Cancellation applies if the trust's activities are not genuine or do not align with its objectives.",
+                        "Non-compliance with legal requirements or adverse orders from authorities can also lead to cancellation."
+                    ],
+                    "exceptions": "The trust is given an opportunity to provide a reasonable explanation before cancellation."
+                },
+                "(5) Inapplicability After April 1, 2021": {
+                    "summary": "The provisions of this section do not apply after April 1, 2021.",
+                    "conditions": "Registrations from April 1, 2021, onwards follow the new provisions under Section 12AB.",
+                    "exceptions": "Existing registrations before this date remain valid unless canceled."
+                }
+            }
+        },
+        "Section 12AB": {
+            "summary": "Defines the procedure for fresh registration of trusts and institutions for tax exemptions under Sections 11 and 12.",
+            "sub_sections": {
+                "(1) Registration Process": {
+                    "summary": "The Principal Commissioner or Commissioner processes applications under Section 12A(1)(ac).",
+                    "conditions": [
+                        "If satisfied with the trust's activities and compliance, grants registration for 5 years.",
+                        "If not satisfied, rejects the application and cancels previous registration.",
+                        "Provisional registration is granted for 3 years in certain cases."
+                    ],
+                    "exceptions": "Provisional registration applies only if the trust has not yet commenced activities."
+                },
+                "(2) Time Limits for Registration": {
+                    "summary": "Specifies the time limits for processing applications.",
+                    "conditions": [
+                        "For normal registration, decision must be made within 3 months.",
+                        "For renewal applications, decision must be made within 6 months.",
+                        "For provisional registrations, decision must be made within 1 month."
+                    ],
+                    "exceptions": "Delays beyond this period require justification."
+                },
+                "(3) Cancellation of Registration": {
+                    "summary": "Authorities can cancel registration if violations occur.",
+                    "conditions": [
+                        "Applies if activities are not genuine or not aligned with trust objectives.",
+                        "Non-compliance with legal requirements or orders from authorities leads to cancellation.",
+                        "Trusts have the right to present their case before cancellation."
+                    ],
+                    "exceptions": "If a reasonable cause is provided, cancellation may be avoided."
+                },
+                "(4) Specified Violations Leading to Cancellation": {
+                    "summary": "Defines violations that can result in cancellation of registration.",
+                    "conditions": [
+                        "Funds are misused or diverted for private religious purposes.",
+                        "Business activities are not incidental to charitable objectives.",
+                        "Non-compliance with any law results in an adverse ruling.",
+                        "False or incorrect information in the application."
+                    ],
+                    "exceptions": "If compliance failures are corrected, registration may not be canceled."
+                },
+                "(5) Time Limit for Cancellation Orders": {
+                    "summary": "Specifies the deadline for authorities to issue a cancellation order.",
+                    "conditions": "Must be passed within 6 months from the end of the quarter in which the first notice is issued.",
+                    "exceptions": "If delays occur, justification must be provided."
+                }
+            }
+        },
+        "Section 13": {
+            "summary": "Defines cases where tax exemptions under Sections 11 and 12 do not apply to trusts and institutions.",
+            "sub_sections": {
+                "(1) Cases Where Exemptions Do Not Apply": {
+                    "summary": "Specifies situations where trust income is taxable despite Sections 11 and 12.",
+                    "conditions": [
+                        "Income of trusts for private religious purposes that do not benefit the public.",
+                        "Trusts or institutions established for the benefit of a particular religious community or caste.",
+                        "Use of trust income for the benefit of related persons (as per sub-section 3).",
+                        "Investment of trust funds in prohibited forms."
+                    ],
+                    "exceptions": [
+                        "Historical compliance before specified cut-off dates.",
+                        "Certain exemptions for investments held before March 1, 1983."
+                    ]
+                },
+                "(2) Deemed Misuse of Funds": {
+                    "summary": "Defines transactions that automatically disqualify a trust from tax exemption.",
+                    "conditions": [
+                        "Lending money to related persons without proper security or interest.",
+                        "Allowing free or underpriced use of trust property by related persons.",
+                        "Overpayment of salaries or benefits to related persons.",
+                        "Selling or buying assets from related persons at improper prices.",
+                        "Investing in businesses where related persons have a substantial interest."
+                    ],
+                    "exceptions": "De minimis exemption applies if the transaction value is below ₹1,000."
+                },
+                "(3) Definition of Related Persons": {
+                    "summary": "Lists individuals and entities whose involvement can affect tax exemptions.",
+                    "conditions": [
+                        "Author or founder of the trust.",
+                        "Persons contributing over ₹50,000 to the trust.",
+                        "Trustees, managers, and their relatives.",
+                        "Businesses in which related persons have substantial interest."
+                    ],
+                    "exceptions": "Certain charitable trusts benefiting Scheduled Castes, Scheduled Tribes, and women are exempt."
+                },
+                "(4) Investment Restrictions": {
+                    "summary": "Trusts must not invest in unapproved forms after February 28, 1983.",
+                    "conditions": [
+                        "Trusts cannot invest in private companies (except specified public sector shares).",
+                        "Pre-existing investments must be divested by March 31, 1992."
+                    ],
+                    "exceptions": "Investments forming part of the trust's corpus before June 1, 1973, are allowed."
+                },
+                "(5) Anonymous Donations and Taxability": {
+                    "summary": "Anonymous donations are taxable unless properly accounted for.",
+                    "conditions": "Income from anonymous donations is taxable under Section 115BBC.",
+                    "exceptions": "Exemptions apply if the donation details are disclosed."
+                },
+                "(6) Other Conditions Leading to Loss of Exemption": {
+                    "summary": "Additional conditions affecting tax exemption eligibility.",
+                    "conditions": [
+                        "Failure to submit tax filings within the due date under Section 139(1).",
+                        "Violation of first proviso to Section 2(15) regarding commercial activities."
+                    ],
+                    "exceptions": "If proper corrective measures are taken, exemptions may be restored."
+                },
+                "(7) Explanation of Key Terms": {
+                    "summary": "Defines key terms such as 'relative', 'substantial interest', and 'trust'.",
+                    "conditions": [
+                        "'Relative' includes spouses, siblings, lineal ascendants/descendants, and in-laws.",
+                        "'Substantial interest' applies to persons holding at least 20% voting rights in a company."
+                    ],
+                    "exceptions": "Definitions follow standard interpretations under tax laws."
+                }
+            }
+        },
+        "Section 13A": {
+            "summary": "Provides tax exemption for the income of registered political parties under specified conditions.",
+            "sub_sections": {
+                "(1) Exempt Categories of Income": {
+                    "summary": "Certain income sources of political parties are exempt from taxation.",
+                    "categories": [
+                        "Income from house property.",
+                        "Income from other sources.",
+                        "Capital gains.",
+                        "Voluntary contributions from any person."
+                    ],
+                    "exceptions": "Income is taxable if compliance conditions are not met."
+                },
+                "(2) Conditions for Exemption": {
+                    "summary": "Political parties must fulfill specific conditions to claim tax exemption.",
+                    "conditions": [
+                        "Maintain proper books of account and records.",
+                        "Maintain details of voluntary contributions exceeding ₹20,000, except electoral bonds.",
+                        "Get accounts audited by a qualified accountant.",
+                        "Do not accept cash donations exceeding ₹2,000."
+                    ],
+                    "exceptions": "Non-compliance results in loss of exemption."
+                },
+                "(3) Compliance with Election Laws": {
+                    "summary": "Political parties must comply with reporting requirements under election laws.",
+                    "conditions": [
+                        "Submit a report on donations as per Section 29C(3) of the Representation of the People Act, 1951.",
+                        "File income tax returns under Section 139(4B) before the due date."
+                    ],
+                    "exceptions": "Failure to submit reports or returns results in loss of exemption."
+                },
+                "(4) Definition of Political Party": {
+                    "summary": "Defines which political parties qualify for tax exemption.",
+                    "conditions": "A party must be registered under Section 29A of the Representation of the People Act, 1951.",
+                    "exceptions": "Unregistered political parties do not qualify for exemption."
+                }
+            }
+        },
+        "Section 13B": {
+            "summary": "Provides tax exemption for voluntary contributions received by electoral trusts under specified conditions.",
+            "sub_sections": {
+                "(1) Conditions for Tax Exemption": {
+                    "summary": "Electoral trusts are exempt from tax on voluntary contributions if they meet specific conditions.",
+                    "conditions": [
+                        "Electoral trust must distribute at least 95% of the total donations received in a financial year.",
+                        "Surplus from previous years must also be distributed.",
+                        "Distribution must be made to political parties registered under Section 29A of the Representation of the People Act, 1951."
+                    ],
+                    "exceptions": "If less than 95% of donations are distributed, the exemption is not granted."
+                },
+                "(2) Compliance with Government Rules": {
+                    "summary": "Electoral trusts must follow government regulations to retain tax exemption.",
+                    "conditions": "Trust must function as per rules made by the Central Government.",
+                    "exceptions": "Non-compliance results in loss of exemption and taxation of contributions."
+                }
+            }
+        }
+    }
+}
