@@ -4,8 +4,10 @@ import json
 import faiss
 import numpy as np
 import cohere
+import os
 from sentence_transformers import SentenceTransformer
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline, BitsAndBytesConfig
+from dotenv import load_dotenv
 import asyncio
 
 # Ensure async loop is properly handled
