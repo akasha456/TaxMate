@@ -15,10 +15,13 @@ except RuntimeError:
     asyncio.set_event_loop(asyncio.new_event_loop())
 
 # ✅ Load Environment Variables for Cohere API Key
-COHERE_API_KEY = "PAqjOGaEzTSOY823wwfSwHzLFxjhHYCORIddmDzp"
+load_dotenv()
+COHERE_API_KEY = os.getenv("COHERE_API_KEY")
+
 if not COHERE_API_KEY:
     st.error("Cohere API key not found. Set it as an environment variable.")
     st.stop()
+
 cohere_client = cohere.Client(COHERE_API_KEY)
 
 # ✅ Define model paths
