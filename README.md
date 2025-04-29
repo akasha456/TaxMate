@@ -39,7 +39,7 @@
 
 ```bash
 git clone https://github.com/akasha456/TaxMate.git
-cd taxmate
+cd TaxMate
 pip install -r requirements.txt
 ```
 
