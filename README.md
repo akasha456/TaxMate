@@ -7,7 +7,7 @@
 ![LLM](https://img.shields.io/badge/LLM-LLaMA_2_7B-orange)  
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
-[![Deployed](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://taxmate-25.streamlit.app/)
+[![Deployed](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://taxmate-rag.streamlit.app/)
 
 > 📚 A semantic legal assistant built with Retrieval-Augmented Generation (RAG) to simplify access to Indian tax law using open-source LLMs and modern NLP tools.
 
